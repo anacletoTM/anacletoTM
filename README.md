@@ -33,7 +33,7 @@
 ![MSFVenom](https://img.shields.io/badge/MSFVenom-FF4500?style=flat-square&logo=metasploit&logoColor=white)
 ![FFUF](https://img.shields.io/badge/FFUF-556B2F?style=flat-square&logo=linux&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-FFD700?style=flat-square&logo=mysql&logoColor=black)
-![Bettercap](https://img.shields.io/badge/Bettercap-000000?style=flat-square&logo=shield&logoColor=white)
+![Bettercap](https://img.shields.io/badge/Bettercap-000000?style=flat-square&logo=bettercap&logoColor=white)
 
 ### 🌐 Networking
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-000000?style=flat-square&logo=cisco&logoColor=white)
