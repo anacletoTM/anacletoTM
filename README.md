@@ -33,7 +33,7 @@
 ![MSFVenom](https://img.shields.io/badge/MSFVenom-FF4500?style=for-the-badge&logo=metasploit&logoColor=white)
 ![FFUF](https://img.shields.io/badge/FFUF-556B2F?style=for-the-badge&logo=linux&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-FFD700?style=for-the-badge&logo=mysql&logoColor=black)
-![Bettercap](https://img.shields.io/badge/Bettercap-ready–to–hack-blue?style=for-the-badge)
+![Bettercap](https://img.shields.io/badge/Bettercap-ready–to–hack-blue?style=for-the-badge&logo=shield&logoColor=white)
 
 ### 🌐 Networking
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-000000?style=for-the-badge&logo=cisco&logoColor=white)
