@@ -1,9 +1,11 @@
 # 👋 Hi, I'm anaceltoTM
 
-💻 Passionate about **Cybersecurity**, mainly focusing on **Penetration Testing** and **Red Teaming**.  
-🐧 Experienced with **Linux systems** (specialized in **Kali Linux**, but also comfortable with **Arch Linux** and **Ubuntu**).  
-🌐 Skilled in **networking** and in using a wide range of security tools.  
-🎮 In my free time, I explore **Game Development** with **Game Maker Studio** and **Godot**.  
+🛡️ I am a cybersecurity and networking enthusiast, focusing on **Penetration Testing** and **Red Teaming**,  
+with solid experience in **Linux systems**, **networking**, and **security tooling**.  
+
+🖥️ I also enjoy **programming** (C++, Python, web tech) and **Game Development** with **Game Maker Studio** and **Godot**.  
+
+🎯 I actively practice my skills through labs, personal projects, and platforms like **Hack The Box**.
 
 ---
 
@@ -65,6 +67,7 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2F3D?style=flat-square&logo=metasploit&logoColor=white)
 ![MSFVenom](https://img.shields.io/badge/MSFVenom-FF4500?style=flat-square&logo=metasploit&logoColor=white)
 ![BeEF](https://img.shields.io/badge/BeEF-FE7A16?style=flat-square&logo=beef&logoColor=white)
+![Villain](https://img.shields.io/badge/Villain-C62828?style=flat-square&logo=hack-the-box&logoColor=white)
 
 </details>
 
